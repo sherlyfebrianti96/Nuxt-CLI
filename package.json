@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/sherlyfebrianti96/Nuxt-CLI.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nuxt",
+    "cli",
+  ],
+  "author": "Sherly Febrianti",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sherlyfebrianti96/Nuxt-CLI/issues"
