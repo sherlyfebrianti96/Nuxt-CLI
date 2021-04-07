@@ -12,12 +12,15 @@
   },
   "keywords": [
     "nuxt",
-    "cli",
+    "cli"
   ],
   "author": "Sherly Febrianti",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sherlyfebrianti96/Nuxt-CLI/issues"
   },
-  "homepage": "https://github.com/sherlyfebrianti96/Nuxt-CLI#readme"
+  "homepage": "https://github.com/sherlyfebrianti96/Nuxt-CLI#readme",
+  "dependencies": {
+    "clear": "^0.1.0"
+  }
 }
