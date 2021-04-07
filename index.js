@@ -1,5 +1,8 @@
 
-const clear = require('clear');
-
 /* Clear the terminal when running the Nuxt CLI */
+const clear = require('clear');
 clear();
+
+/* CLI Welcome Greetings */
+const welcome = require('./lib/welcome');
+welcome();
