@@ -29,5 +29,8 @@
     "inquirer": "^8.0.0",
     "rxjs": "^6.6.7",
     "terminal-link": "^2.1.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
