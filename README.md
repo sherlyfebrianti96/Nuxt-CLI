@@ -130,6 +130,14 @@ When you run the `nuxt-cli`, you will get the option for `what do you want to ge
     └── ...
     ```
 
+## Documentation
+
+If you want to know about more about this project, you can see the reproduce steps in these article :
+
+- [Building a Nuxt CLI using NPM](https://sherlyfebrianti96.medium.com/building-a-nuxt-cli-using-npm-84801968aed3?sk=ee7263f9cde4b5fea7e69207eef5f712)
+- [Publish the Nuxt CLI to NPM Package](https://sherlyfebrianti96.medium.com/publish-the-nuxt-cli-to-npm-package-7092d2dbd1ca?sk=fc7f2ca21480d1e66f0d711879c44de4)
+- [Building a Nuxt CLI using NPM in Advanced](https://sherlyfebrianti96.medium.com/building-a-nuxt-cli-using-npm-in-advanced-8b2435aa7aa4?sk=c41bf010aa4f8a26baabc5d6e66dadad)
+
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
