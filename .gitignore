@@ -5,3 +5,4 @@ package-lock.json
 layouts
 components
 pages
+store
