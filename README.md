@@ -127,8 +127,6 @@ When you run the `nuxt-cli`, you will get the option for `what do you want to ge
     └── ...
     ```
 
-## Contributors
+## Contributors ✨
 
-[<img alt="sherlyfebrianti96" src="https://avatars.githubusercontent.com/u/2855979?v=4&s=117 width=117">](https://github.com/sherlyfebrianti96) |
-:---:|
-[sherlyfebrianti96](https://github.com/sherlyfebrianti96)|
+@all-contributors 
