@@ -1,6 +1,6 @@
 # Nuxt CLI for Class Componenent
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is a Nuxt CLI to auto-generate the components/Layout/Pages/Store for your [Nuxtjs application](https://nuxtjs.org/).
@@ -135,8 +135,15 @@ When you run the `nuxt-cli`, you will get the option for `what do you want to ge
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/sherly-febrianti-4021a982/"><img src="https://avatars.githubusercontent.com/u/2855979?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sherly Febrianti</b></sub></a><br /><a href="https://github.com/Sherly Febrianti/Nuxt-CLI/commits?author=sherlyfebrianti96" title="Code">💻</a> <a href="#maintenance-sherlyfebrianti96" title="Maintenance">🚧</a> <a href="https://github.com/Sherly Febrianti/Nuxt-CLI/commits?author=sherlyfebrianti96" title="Documentation">📖</a> <a href="#question-sherlyfebrianti96" title="Answering Questions">💬</a> <a href="https://github.com/Sherly Febrianti/Nuxt-CLI/pulls?q=is%3Apr+reviewed-by%3Asherlyfebrianti96" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+</table>
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 The list was generated using [All Contributors](https://allcontributors.org/).
