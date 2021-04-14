@@ -1,34 +1,14 @@
 {
   "projectName": "Nuxt-CLI",
-  "projectOwner": "sherlyfebrianti96",
+  "projectOwner": "Sherly Febrianti",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
-  "commit": false,
-  "contributorsPerLine": 7,
-  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
-  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-  "types": {
-    "custom": {
-      "symbol": "🔭",
-      "description": "A custom contribution type.",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
-    }
-  },
-  "contributors": [
-    {
-      "login": "jakebolam",
-      "name": "Jake Bolam",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/3534236?v=4",
-      "profile": "https://jakebolam.com",
-      "contributions": [
-        "code",
-        "maintenance",
-        "doc",
-        "question",
-        "review"
-      ]
-    }
-  ]
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [],
+  "contributorsPerLine": 7
 }

@@ -1,4 +1,7 @@
 # Nuxt CLI for Class Componenent
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is a Nuxt CLI to auto-generate the components/Layout/Pages/Store for your [Nuxtjs application](https://nuxtjs.org/).
 
@@ -129,4 +132,13 @@ When you run the `nuxt-cli`, you will get the option for `what do you want to ge
 
 ## Contributors ✨
 
-@all-contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+The list was generated using [All Contributors](https://allcontributors.org/).
+
+See the [contributing docs](https://allcontributors.org/docs/en/project/contribute) for more information
