@@ -16,5 +16,19 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "contributors": ["sherlyfebrianti96"]
+  "contributors": [
+    {
+      "login": "jakebolam",
+      "name": "Jake Bolam",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3534236?v=4",
+      "profile": "https://jakebolam.com",
+      "contributions": [
+        "code",
+        "maintenance",
+        "doc",
+        "question",
+        "review"
+      ]
+    }
+  ]
 }

@@ -129,4 +129,4 @@ When you run the `nuxt-cli`, you will get the option for `what do you want to ge
 
 ## Contributors ✨
 
-@all-contributors 
+@all-contributors
